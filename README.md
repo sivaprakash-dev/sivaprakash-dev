@@ -175,7 +175,7 @@ Aspiring ASP.NET Core Full Stack Developer with a strong foundation in web appli
 
 💼 LinkedIn: www.linkedin.com/in/siva-prakash-7352653b3
 
-🐙 GitHub: https://github.com/sivaprakash-dev/FRONTEND
+🐙 GitHub: https://github.com/sivaprakash-dev
 
 ---
 
