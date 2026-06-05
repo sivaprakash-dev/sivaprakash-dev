@@ -145,9 +145,7 @@ Application management system with CRUD operations and API integration.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=sivaprakash-dev&theme=tokyonight)
 
 ---
 
@@ -159,7 +157,7 @@ Application management system with CRUD operations and API integration.
 
 ## 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sivaprakash-dev&theme=github-compact)
 
 ---
 
